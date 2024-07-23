@@ -336,7 +336,7 @@
     "electron-log": "^4.2.2",
     "electron-settings": "^4.0.2",
     "electron-store": "^8.0.1",
-    "electron-updater": "^4.3.1",
+    "electron-updater": "^6.3.0",
     "express": "^4.17.1",
     "fontsource-lexend-peta": "^3.0.9",
     "get-port": "^5.1.1",
